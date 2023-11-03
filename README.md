@@ -35,9 +35,11 @@ https://docs.blender.org/manual/en/latest/interface/keymap/blender_default.html
 | Select All | `A` |
 | Delete | `X` |
 | Scale object | `S` |
+| Extrude | `E` |
 | Drag object along the x-axis | `G` + `X` | 
 | -- | same for y and z |
 | Roatate object along the x-axis | `R` + `X` |
 | -- | same for y and z |
 | -- | can choose how many degrees by typing the number afterwards |
+| Add vertices and edges | `Crtl` + `R` |
 
